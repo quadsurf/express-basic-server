@@ -30,10 +30,12 @@ In this exercise, you will create an Express server that serves static files and
 
 * Use your notes and the Express docs to create a route that returns some kind of data when a user sends a GET request to '/someanimal' 
 
-## Part Three: 
+## Part Three: Create a client that sends an ajax request to the server
 
 * In a seperate git repo create a client project that has a simple html page and sends an ajax call to the API you created in step 2. Run your client on http-server. These do not have to be deployed. You can send a request from one port to another.  Just run the servers in different terminal windows.
 
-## Paste a link to your client side repo here: 
+## Submit your work
 
-* Make sure you add, commit and push all your changes on the server repo to your clone (this repo) and submit the assignment by pasting a link to your fork in [Workbook](https://workbook.galvanize.com/cohorts/66/articles/2945)
+* Paste a link to your client side repo here: ____
+
+* Make sure you add, commit and push all your changes to your fork of this repo and paste a link to it in [Workbook](https://workbook.galvanize.com/cohorts/66/articles/2945)
