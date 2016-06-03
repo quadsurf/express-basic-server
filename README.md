@@ -21,7 +21,7 @@ In this exercise, you will create an Express server that serves static files and
 * Use `express.static()` to mount the directory that will serve static files
 * Create the directory that you're referencing above
 * Create an html and a css page in your static directory - don't spend much time styling - do just enough to check that everything is connected
-* Use `app.listen` to run your server on a port
+* Use `app.listen` to bind and listen for connections on the specified port
 * Check that this works by running `nodemon app.js in your directory
 * Git add, commit, push
 
