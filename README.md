@@ -1,7 +1,6 @@
 # express-basic-server
-Create an Express server that serves static files and create an API that responds to HTTP GET requests
 
-In this exercise, you will create an express server that serves static files and responds to a get request with data.
+In this exercise, you will create an Express server that serves static files and responds to a get request with data.
 
 ## Part One: Create a static server
 
