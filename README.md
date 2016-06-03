@@ -3,7 +3,7 @@ Create an Express server that serves static files and create an API that respond
 
 In this exercise, you will create an express server that serves static files and responds to a get request with data.
 
-## Part One: Create a static server.
+## Part One: Create a static server
 
 ### Setup
 
